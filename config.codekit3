@@ -40,6 +40,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/files/VRCloudTech_Logo.png": {
+		"ft": 32768,
+		"iS": 23986,
+		"oA": 0,
+		"oAP": "/files/VRCloudTech_Logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/files/VRCloudTech_short.png": {
+		"ft": 32768,
+		"iS": 259989,
+		"oA": 0,
+		"oAP": "/files/VRCloudTech_short.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
