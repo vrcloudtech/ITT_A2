@@ -63,9 +63,9 @@
 		"oA": 0,
 		"oAP": "/files/bram-van-oost-4xM5cytsdMo-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 75
 		},
 	"/files/CJPM6883.JPEG": {
 		"ft": 16384,
@@ -185,9 +185,9 @@
 		"oA": 0,
 		"oAP": "/files/franck-v-U3sOwViXhkY-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 73
 		},
 	"/files/industry-data-general-skills.jpg": {
 		"ft": 16384,
@@ -229,9 +229,9 @@
 		"oA": 0,
 		"oAP": "/files/jefferson-santos-9SoCnyQmkzI-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 77
 		},
 	"/files/jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg": {
 		"ft": 16384,
@@ -240,9 +240,9 @@
 		"oA": 0,
 		"oAP": "/files/jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 73
 		},
 	"/files/luca-bravo-XJXWbfSo2f0-unsplash.jpg": {
 		"ft": 16384,
@@ -251,9 +251,9 @@
 		"oA": 0,
 		"oAP": "/files/luca-bravo-XJXWbfSo2f0-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 73
 		},
 	"/files/lucrezia-carnelos-IMUwe-p1yqs-unsplash.jpg": {
 		"ft": 16384,
@@ -262,9 +262,9 @@
 		"oA": 0,
 		"oAP": "/files/lucrezia-carnelos-IMUwe-p1yqs-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 73
 		},
 	"/files/lux-interaction-xL3xDwWx7_s-unsplash.jpg": {
 		"ft": 16384,
@@ -273,9 +273,9 @@
 		"oA": 0,
 		"oAP": "/files/lux-interaction-xL3xDwWx7_s-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 78
 		},
 	"/files/nasa-Q1p7bh3SHj8-unsplash.jpg": {
 		"ft": 16384,
@@ -284,9 +284,9 @@
 		"oA": 0,
 		"oAP": "/files/nasa-Q1p7bh3SHj8-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 75
 		},
 	"/files/profiles/ben_lister.jpg": {
 		"ft": 16384,
@@ -339,9 +339,9 @@
 		"oA": 0,
 		"oAP": "/files/simon-abrams-k_T9Zj3SE8k-unsplash.jpg",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
+		"opt": 1,
+		"q": 73
 		},
 	"/files/VRCloudTech_Logo.png": {
 		"ft": 32768,
