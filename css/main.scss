@@ -96,6 +96,56 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
+	height: 300px;
+}
+
+.hero-banner-2 {
+	background: url(../files/lucrezia-carnelos-IMUwe-p1yqs-unsplash.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
+.hero-banner-3 {
+	background: url("../files/nasa-Q1p7bh3SHj8-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
+.hero-banner-4 {
+	background: url("../files/jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
+.hero-splash {
+	position: absolute;
+	background: url("../files/simon-abrams-k_T9Zj3SE8k-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: calc(100vh - 100px);
+}
+
+.hero-splash div {
+	background: rgba(240,240,240,.7);
+	box-shadow: 0px 0px 5px rgba(240,240,240,.5);
+
+}
+
+.banner-text {
+	color:white;
+	text-align: center;
+	position: relative;
+	vertical-align: middle;
+	font-size: 40px;
+	top: 50%;
+	transform: translateY(-50%);
 }
 /* Typography */
 h1,h2,h3 {
@@ -120,7 +170,7 @@ margin-bottom: 10px;
 }
 /* Text helpers */
 
-.text-white, div.text-white h1, div.text-white p, div.text-white h2, div.text-white blockquote , div.text-white ul li {
+.text-white, div.text-white h1, div.text-white p, div.text-white h2, div.text-white h3 , div.text-white blockquote , div.text-white ul li {
 	color:white !important;
 }
 
@@ -130,6 +180,34 @@ margin-bottom: 10px;
 
 .text-center {
 	text-align: center;
+}
+
+.align-middle {
+	position: relative;
+vertical-align: middle;
+top: 50%;
+transform: translateY(-50%);
+}
+
+.question {
+	width: 60%;
+	background:rgb(200,200,200);
+	padding:5px;
+	float: left;
+	border-radius: 10px;
+}
+
+.question.interim {
+	width: 100% !important;
+}
+
+.response {
+	width: 60%;
+	background: rgb(80,80,80);
+	color:white;
+	padding:5px;
+	float:right;
+	border-radius: 10px;
 }
 
 /* Navigation */
@@ -146,7 +224,7 @@ ul.nav li {
 	float:left;
 	width:auto;
 	height:auto;
-	padding:5px 15px 5px 15px;
+	padding:5px 10px 5px 10px;
 	transition:.2s;
 }
 
