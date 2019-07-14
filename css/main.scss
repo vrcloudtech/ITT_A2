@@ -96,7 +96,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 300px;
+	height: 400px;
 }
 
 .hero-banner-2 {
@@ -123,6 +123,14 @@ body {
 	height: 400px;
 }
 
+.hero-banner-5 {
+	background:url("../files/jefferson-santos-9SoCnyQmkzI-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
 .hero-splash {
 	position: absolute;
 	background: url("../files/simon-abrams-k_T9Zj3SE8k-unsplash.jpg");
@@ -137,6 +145,31 @@ body {
 	box-shadow: 0px 0px 5px rgba(240,240,240,.5);
 
 }
+
+.hero-banner-robots {
+	background: url("../files/franck-v-U3sOwViXhkY-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
+.hero-banner-vehicles {
+	background: url("../files/bram-van-oost-4xM5cytsdMo-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
+.hero-banner-machine-learning {
+	background: url("../files/luca-bravo-XJXWbfSo2f0-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+
 
 .banner-text {
 	color:white;
@@ -239,8 +272,13 @@ ul.nav li a {
 	padding:10px 10px 10px 10px;
 }
 
-ul.nav li:hover a, ul.nav li.is-active a {
+ul.nav li:hover a {
 	color:white;
+	transition:.2s;
+}
+
+ul.nav li.is-active a {
+	color:white !important;
 	transition:.2s;
 }
 

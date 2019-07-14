@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "29156",
 "files": {
+	"/autonomous-vehicles.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/autonomous-vehicles.html",
+		"oF": 0
+		},
 	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -39,6 +47,25 @@
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
+		},
+	"/cyber-security.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/cyber-security.html",
+		"oF": 0
+		},
+	"/files/bram-van-oost-4xM5cytsdMo-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 877718,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/bram-van-oost-4xM5cytsdMo-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/files/CJPM6883.JPEG": {
 		"ft": 16384,
@@ -151,6 +178,17 @@
 		"oAP": "/files/favicons/site.webmanifest",
 		"oF": 0
 		},
+	"/files/franck-v-U3sOwViXhkY-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 3126013,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/franck-v-U3sOwViXhkY-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/files/industry-data-general-skills.jpg": {
 		"ft": 16384,
 		"iS": 44286,
@@ -184,12 +222,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/files/jefferson-santos-9SoCnyQmkzI-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 755323,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/jefferson-santos-9SoCnyQmkzI-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/files/jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg": {
 		"ft": 16384,
 		"iS": 713854,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/files/jonathan-velasquez-c1ZN57GfDB0-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/luca-bravo-XJXWbfSo2f0-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 2869085,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/luca-bravo-XJXWbfSo2f0-unsplash.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -234,6 +294,39 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/files/profiles/ben_lister.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/profiles/kyle_samuels.jpg": {
+		"ft": 16384,
+		"iS": 69283,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/profiles/kyle_samuels.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/robots_1.jpg": {
+		"ft": 16384,
+		"iS": 208610,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/robots_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/robots_2.jpg": {
+		"ft": 16384,
+		"iS": 651484,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/robots_2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -296,12 +389,36 @@
 		"oAP": "/industry-data.html",
 		"oF": 0
 		},
+	"/it-technologies.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/it-technologies.html",
+		"oF": 0
+		},
 	"/it-work.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/it-work.html",
+		"oF": 0
+		},
+	"/machine-learning.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/machine-learning.html",
+		"oF": 0
+		},
+	"/robots.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/robots.html",
 		"oF": 0
 		},
 	"/team-profile.html": {
