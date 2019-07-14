@@ -321,6 +321,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/files/profiles/oscar.jpg": {
+		"ft": 16384,
+		"iS": 227830,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/profiles/oscar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/files/profiles/ty_church.jpg": {
 		"ft": 16384,
 		"iS": 80543,
