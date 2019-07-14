@@ -51,6 +51,150 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/files/favicons/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 37475,
+		"oA": 0,
+		"oAP": "/files/favicons/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/files/favicons/android-chrome-256x256.png": {
+		"ft": 32768,
+		"iS": 62470,
+		"oA": 0,
+		"oAP": "/files/favicons/android-chrome-256x256.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/files/favicons/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 33593,
+		"oA": 0,
+		"oAP": "/files/favicons/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/files/favicons/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/files/favicons/browserconfig.xml",
+		"oF": 0
+		},
+	"/files/favicons/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1960,
+		"oA": 0,
+		"oAP": "/files/favicons/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/files/favicons/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2698,
+		"oA": 0,
+		"oAP": "/files/favicons/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/files/favicons/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/files/favicons/favicon.ico",
+		"oF": 0
+		},
+	"/files/favicons/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 22123,
+		"oA": 0,
+		"oAP": "/files/favicons/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/files/favicons/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/files/favicons/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/files/favicons/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/files/favicons/site.webmanifest",
+		"oF": 0
+		},
+	"/files/industry-data-general-skills.jpg": {
+		"ft": 16384,
+		"iS": 44286,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/industry-data-general-skills.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/industry-data-it-skills.jpg": {
+		"ft": 16384,
+		"iS": 37029,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/industry-data-it-skills.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/industry-data-table-1.jpg": {
+		"ft": 16384,
+		"iS": 1242943,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/industry-data-table-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/files/profiles/ben_lister.jpg": {
+		"ft": 16384,
+		"iS": 65668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/files/profiles/ben_lister.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/files/VRCloudTech_Logo.png": {
 		"ft": 32768,
 		"iS": 23986,
@@ -73,12 +217,44 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/ideal-jobs.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ideal-jobs.html",
+		"oF": 0
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/index.html",
+		"oF": 0
+		},
+	"/industry-data.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/industry-data.html",
+		"oF": 0
+		},
+	"/it-work.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/it-work.html",
+		"oF": 0
+		},
+	"/team-profile.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/team-profile.html",
 		"oF": 0
 		}
 	},
@@ -90,7 +266,7 @@
 	"creationDate": 583065111.64815295,
 	"displayValue": "ITT_A2",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-confusedBaby",
+	"iconImageName": "/files/favicons/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
