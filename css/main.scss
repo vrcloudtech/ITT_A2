@@ -21,6 +21,10 @@ body {
 
 }
 
+.row.padding {
+	padding: 10px;
+}
+
 .row::after {
   content: "";
   clear: both;
@@ -86,6 +90,13 @@ body {
 	filter:grayscale(0);
 	transition: .2s;
 }
+
+.hero-banner-1 {
+	background: url(../files/lux-interaction-xL3xDwWx7_s-unsplash.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
 /* Typography */
 h1,h2,h3 {
 	font-family: 'Assistant', sans-serif;
@@ -124,7 +135,6 @@ margin-bottom: 10px;
 /* Navigation */
 .navigation {
 	background:white;
-	margin-bottom: 20px;
 }
 
 ul.nav {
