@@ -299,6 +299,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/files/profiles/blank_user.png": {
+		"ft": 32768,
+		"iS": 1733,
+		"oA": 0,
+		"oAP": "/files/profiles/blank_user.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/files/profiles/kyle_samuels.jpg": {
 		"ft": 16384,
 		"iS": 69283,
